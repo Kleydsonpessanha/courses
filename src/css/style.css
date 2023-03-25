@@ -103,6 +103,11 @@ header {
   width: 80%;
 }
 
+.description-of-presentation {
+  text-align: center;
+  width: 85%;
+}
+
 .title {
   padding-left: 1rem;
   color: var(--blue-900);
@@ -268,7 +273,7 @@ header {
 }
 
 .title2 {
-  padding-top: 6rem;
+  padding-top: 4rem;
 }
 
 .item-courses {
